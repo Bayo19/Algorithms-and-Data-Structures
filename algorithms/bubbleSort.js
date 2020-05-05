@@ -12,4 +12,5 @@ function bubbleSort(array) {
 }
 
 
-console.log(bubbleSort([3, 2, 8, 5, 8, 3, 9, 25, 74, 62, 83, 35, 83, 75, 981, 62]))
+console.log(bubbleSort([3, 2, 8, 5, 35, 83, 75, 981, 62]))
+console.log(bubbleSort([35, 2, 57, 43, 7, 2, 68, 29, 28, 85, 26]))
