@@ -11,7 +11,6 @@ function insertionSort(array) {
             array[j + 1] = array[j]
             return insertionSort(array)
         }
-
     }
     return array
 }
